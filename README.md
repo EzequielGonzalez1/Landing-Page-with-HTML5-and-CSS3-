@@ -16,7 +16,7 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 # BANNER
 
 <div id="header-div" align="center">
- <img src="https://github.com/ezequiel733/F.A.G.A-Construcciones/blob/master/Captura%20de%20pantalla.png" width="700" height="350" />
+ <img src="https://github.com/EzequielGonzalez1/Landing-Page-with-HTML5-and-CSS3-/blob/main/Captura%20de%20pantalla.png" width="700" height="350" />
 </div>
 
 ---
@@ -24,7 +24,7 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 # FOOTER
 
 <div id="header-div" align="center">
- <img src="https://github.com/ezequiel733/F.A.G.A-Construcciones/blob/master/banner-contacto.png" width="700" height="350" />
+ <img src="https://github.com/EzequielGonzalez1/Landing-Page-with-HTML5-and-CSS3-/blob/main/banner-contacto.png" width="700" height="350" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 # RESPONSIVE-MODEL
 
 <div id="header-div" align="center">
- <img src="https://github.com/ezequiel733/F.A.G.A-Construcciones/blob/master/responsive.png" width="400" height="600" />
+ <img src="https://github.com/EzequielGonzalez1/Landing-Page-with-HTML5-and-CSS3-/blob/main/responsive.png" width="400" height="600" />
 </div>
 
 ---
@@ -48,5 +48,5 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 # RESPONSIVE-GRID
 
 <div id="header-div" align="center">
- <img src="https://github.com/ezequiel733/F.A.G.A-Construcciones/blob/master/Captura%20de%20pantalla%20(21).png" width="400" height="600" />
+ <img src="https://github.com/EzequielGonzalez1/Landing-Page-with-HTML5-and-CSS3-/blob/main/Captura%20de%20pantalla%20(21).png" width="400" height="600" />
 </div>
