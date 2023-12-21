@@ -29,14 +29,6 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 
 ---
 
-# SECTION-EMPRESA
-
-<div id="header-div" align="center">
- <img src="https://github.com/ezequiel733/F.A.G.A-Construcciones/blob/master/banner-empresa.png" width="700" height="300" />
-</div>
-
----
-
 # RESPONSIVE-MODEL
 
 <div id="header-div" align="center">
