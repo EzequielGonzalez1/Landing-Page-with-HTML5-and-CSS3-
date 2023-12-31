@@ -24,29 +24,29 @@ This project presents a professional and attractive website for a construction c
 
 ### Characteristics:
 
-- Responsive design for optimal viewing on any device
-- Intuitive and easy-to-navigate user interface
-- Banner with high quality images or videos
-- Main navigation menu with well-defined sections
-- Our Company" section describing the history, mission and values of the company
-- Our Services" section detailing the services offered, with images and concise descriptions
-- Gallery" section showing images from different construction sites
-- Contact Us" section with a form for potential clients to contact the company
-- Integration with social networks for greater visibility
+- Responsive design for optimal viewing on any device.
+- Intuitive and easy-to-navigate user interface.
+- Banner with high quality images or videos.
+- Main navigation menu with well-defined sections.
+- "NUESTRA EMPRESA" section describing the history, mission and values of the company.
+- "NUESTROS SERVICIOS" section detailing the services offered, with images and concise descriptions.
+- "GALERIA" section showing images from different construction sites.
+- "CONTACTO" section with a form for potential clients to contact the company.
+- Integration with social networks for greater visibility.
 
 
 ### Target audience:
 
-- Potential clients of the construction company
-- Architects and engineers
+- Potential clients of the construction company.
+- Architects and engineers.
 
 ### Benefits:
 
-- Increased online visibility for the company
-- Professional presentation of the company and its services
-- Attraction of new potential clients
-- Building trust and credibility
-- Improved communication with clients
+- Increased online visibility for the company.
+- Professional presentation of the company and its services.
+- Attraction of new potential clients.
+- Building trust and credibility.
+- Improved communication with clients.
 
 
 ###  WEBSITE
