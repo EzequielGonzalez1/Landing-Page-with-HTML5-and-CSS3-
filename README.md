@@ -22,34 +22,34 @@ This project presents a professional and attractive website for a construction c
 - CSS3
 
 
-Characteristics:
+### Characteristics:
 
-Responsive design for optimal viewing on any device
-Intuitive and easy-to-navigate user interface
-Banner with high quality images or videos
-Main navigation menu with well-defined sections
-Our Company" section describing the history, mission and values of the company
-Our Services" section detailing the services offered, with images and concise descriptions
-Gallery" section showing images from different construction sites
-Contact Us" section with a form for potential clients to contact the company
-Integration with social networks for greater visibility
-
-
-Target audience:
-
-Potential clients of the construction company
-Architects and engineers
-
-Benefits:
-
-Increased online visibility for the company
-Professional presentation of the company and its services
-Attraction of new potential clients
-Building trust and credibility
-Improved communication with clients
+- Responsive design for optimal viewing on any device
+- Intuitive and easy-to-navigate user interface
+- Banner with high quality images or videos
+- Main navigation menu with well-defined sections
+- Our Company" section describing the history, mission and values of the company
+- Our Services" section detailing the services offered, with images and concise descriptions
+- Gallery" section showing images from different construction sites
+- Contact Us" section with a form for potential clients to contact the company
+- Integration with social networks for greater visibility
 
 
-## WEBSITE
+### Target audience:
+
+- Potential clients of the construction company
+- Architects and engineers
+
+### Benefits:
+
+- Increased online visibility for the company
+- Professional presentation of the company and its services
+- Attraction of new potential clients
+- Building trust and credibility
+- Improved communication with clients
+
+
+###  WEBSITE
 
 - 🌐 Website [FAGA-Construcciones](fagaconstrucciones-1b934.web.app)
 
