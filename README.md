@@ -16,10 +16,10 @@ Source code of my first project in html5 and css3 for a construction company.ðŸ’
 
 This project presents a professional and attractive website for a construction company. The website is designed to provide potential clients with an intuitive and comprehensive user experience, while providing detailed information about the company, its services and its projects.
 
-Technologies:
+### Technologies:
 
-HTML5
-CSS3
+- HTML5
+- CSS3
 
 
 Characteristics:
