@@ -12,7 +12,48 @@
 
 Source code of my first project in html5 and css3 for a construction company.💻
 
+# INTRODUCTION
 
+This project presents a professional and attractive website for a construction company. The website is designed to provide potential clients with an intuitive and comprehensive user experience, while providing detailed information about the company, its services and its projects.
+
+Technologies:
+
+HTML5
+CSS3
+
+
+Characteristics:
+
+Responsive design for optimal viewing on any device
+Intuitive and easy-to-navigate user interface
+Banner with high quality images or videos
+Main navigation menu with well-defined sections
+Our Company" section describing the history, mission and values of the company
+Our Services" section detailing the services offered, with images and concise descriptions
+Gallery" section showing images from different construction sites
+Contact Us" section with a form for potential clients to contact the company
+Integration with social networks for greater visibility
+
+
+Target audience:
+
+Potential clients of the construction company
+Architects and engineers
+
+Benefits:
+
+Increased online visibility for the company
+Professional presentation of the company and its services
+Attraction of new potential clients
+Building trust and credibility
+Improved communication with clients
+
+
+## WEBSITE
+
+- 🌐 Website [FAGA-Construcciones](fagaconstrucciones-1b934.web.app)
+
+  
 # BANNER
 
 <div id="header-div" align="center">
