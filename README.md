@@ -51,7 +51,7 @@ This project presents a professional and attractive website for a construction c
 
 ###  WEBSITE
 
-<meta http-equiv="refresh" content="0; url=fagaconstrucciones-1b934.web.app">
+<a href="fagaconstrucciones-1b934.web.app">Mi sitio web</a>
 
   
 # BANNER
